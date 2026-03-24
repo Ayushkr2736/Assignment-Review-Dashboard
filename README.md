@@ -104,5 +104,4 @@ Domain logic is isolated in `src/utils/assignmentService.js`. This separates the
 
 ---
 
-**Developed with ⚛️ by Antigravity**  
-*Empowering academic institutions with modern data orchestration.*
+
